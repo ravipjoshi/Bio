@@ -1,6 +1,9 @@
-.a{
-    display: inline;
+nav{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
-.b{
-    display: inline;
+nav.li{
+    display: inline-block;
+    
 }
