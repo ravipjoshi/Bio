@@ -1,3 +1,6 @@
+body{
+    background-color: blanchedalmond;
+}
 h1{
     text-align: center;
     color:white;
@@ -15,11 +18,12 @@ a{
 .div1{
      width:50%;
      float: left;
+     padding-right: 30px;
 }
 .div2{
-
-    width:50%;
+    
     float:right;
     padding-left: 20px;
+    width:40%;
 
 }
